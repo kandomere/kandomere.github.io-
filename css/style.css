@@ -16,3 +16,15 @@
     font-size: 4rem;
 
 }
+.carousel .carousel-inner .img {
+    background-size: cover;
+
+}
+
+@media (min-width: 992px){
+.jarallax-home {
+    background-image: url(../img/home.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}}
